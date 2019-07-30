@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snailmail/static/css/main.2703d3bf.chunk.css",
+    "main.js": "/snailmail/static/js/main.55faa159.chunk.js",
+    "main.js.map": "/snailmail/static/js/main.55faa159.chunk.js.map",
+    "runtime~main.js": "/snailmail/static/js/runtime~main.3ad17c8c.js",
+    "runtime~main.js.map": "/snailmail/static/js/runtime~main.3ad17c8c.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/snailmail/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/snailmail/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/snailmail/index.html",
+    "precache-manifest.8954172f5b23f6cd54cbde106d44aca4.js": "/snailmail/precache-manifest.8954172f5b23f6cd54cbde106d44aca4.js",
+    "service-worker.js": "/snailmail/service-worker.js",
+    "static/css/main.2703d3bf.chunk.css.map": "/snailmail/static/css/main.2703d3bf.chunk.css.map"
+  }
+}
